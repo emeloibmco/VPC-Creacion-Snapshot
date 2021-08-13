@@ -35,6 +35,7 @@ Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* 
 * ```Nombre/Name```: indique un nombre exclusivo para su *Snapshot*.
 * ```Grupo de recursos/Resource group```:
 * ```Región/Region```:
+<br />
 
 **Volumen/Volume**
 * Seleccione el volumen
