@@ -32,13 +32,18 @@ Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* 
 <br />
 
 **Detalles/Details** 
-* ```Nombre/Name```: indique un nombre exclusivo para su *Snapshot*.
-* ```Grupo de recursos/Resource group```:
-* ```Región/Region```:
+* ```Nombre/Name```: asigne un nombre exclusivo para su *Snapshot*.
+* ```Grupo de recursos/Resource group```: seleccione el grupo de recursos en el cual está trabajando.
+* ```Región/Region```: indique la región en donde está trabajando.
 <br />
 
 **Volumen/Volume**
-* Seleccione el volumen
+* Seleccione el volumen de almacenamiento sobre el que quiere crear el *Snapshot*.
+<br />
+
+6. De click en el botón ```Crear instantánea/Creat snapshot``` y espere unos minutos mientra se completa la solicitud para la creación del *Snapshot*.
+
+7. Refresque la sección de los *Snapshots* con la opción 🔄 y espere mientra se completa el proceso.
 
 <br />
 
@@ -47,6 +52,7 @@ Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* 
 
 ## Referencias :mag:
 * <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-snapshots-vpc-create&interface=ui">Creating Snapshots</a>.
+* <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-snapshots-vpc-about">About Snapshots for VPC</a>.
 <br />
 
 ## Autores :black_nib:
