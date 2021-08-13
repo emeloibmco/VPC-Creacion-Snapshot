@@ -11,8 +11,10 @@
 
 ## Pre Requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/">IBM Cloud</a>.
+* Contar con un grupo de recursos.
 * Contar con una *VPC*.
 * Contar con una *VSI* en *VPC*.
+
 <br />
 
 ## Crear Snapshot :ballot_box:
@@ -24,7 +26,18 @@ Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* 
 
 3. Diríjase a la sección de ```Volúmenes de almacenamiento/Storage volumes``` y de click en el ```Volúmen de arranque/Boot volume``` de la *VSI*.
 
-4. 
+4. Seleccione la pestaña ```Instantáneas/Snapshots``` y de click en el botón ```Crear +/Create +```.
+
+5. En la nueva ventana complete los campos sugeridos de la siguiente manera:
+<br />
+
+**Detalles/Details** 
+* ```Nombre/Name```: indique un nombre exclusivo para su *Snapshot*.
+* ```Grupo de recursos/Resource group```:
+* ```Región/Region```:
+
+**Volumen/Volume**
+* Seleccione el volumen
 
 <br />
 
@@ -36,5 +49,5 @@ Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* 
 <br />
 
 ## Autores :black_nib:
-Equipo IBM Cloud Tech Sales Colombia.
+Equipo *IBM Cloud Tech Sales Colombia*.
 <br />
