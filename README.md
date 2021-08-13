@@ -1,4 +1,6 @@
 # VPC - Creación de Snapshot 💻💾
+*Snapshots for VCP* (instantáneas para *VPC*) son una oferta regional que se utiliza para crear una copia puntual de su volumen de datos o arranque de almacenamiento en bloque. La instantánea inicial que toma es una copia de seguridad completa del volumen. Las instantáneas posteriores del mismo volumen son incrementales; solo se capturan los cambios desde las últimas instantáneas. Puede seleccionar una instantánea durante el aprovisionamiento de la instancia y restaurar un nuevo volumen de arranque completamente aprovisionado para iniciar la instancia. También puede crear y adjuntar un volumen de datos a partir de una instantánea dentro de una instancia de servidor virtual en ejecución.
+
 <br />
 
 ## Índice  📰
@@ -18,7 +20,7 @@
 <br />
 
 ## Crear Snapshot :ballot_box:
-Para crear un *Snapshot(instantánea)* de volumen de *Block Storage* para *VPC* realice los siguientes pasos:
+Para crear un *Snapshot (instantánea)* del volumen de arranque de *Block Storage* para *VPC* siga los pasos que se muestran a continuación:
 
 1. En el ```Menú de navegación/Navigation menu``` seleccione la opción ```Infraestructura VPC/VPC Infrastructure```.
 
