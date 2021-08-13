@@ -22,7 +22,7 @@ La presente guía muestra los pasos que se deben realizar para generar un *Snaps
 <br />
 
 ## Crear Snapshot :ballot_box:
-Para crear un *Snapshot* del volumen de arranque de *Block Storage* de una *VSI* en *VPC* siga los pasos que se muestran a continuación:
+Para crear un *Snapshot* del volumen de arranque de *Block Storage* de una *VSI* en *VPC*, siga los pasos que se muestran a continuación:
 
 1. En el ```Menú de navegación/Navigation menu``` seleccione la opción ```Infraestructura VPC/VPC Infrastructure```.
 
