@@ -1,9 +1,9 @@
-# VPC - Creación de Snapshot
+# VPC - Creación de Snapshot 💻💾
 <br />
 
 ## Índice  📰
 1. [Pre-Requisitos](#Pre-Requisitos-pencil)
-2. [Crear Snapshot](#Crear-Snapshot)
+2. [Crear Snapshot](#Crear-Snapshot-ballot_box)
 3. [Referencias](#Referencias-mag)
 4. [Autores](#Autores-black_nib)
 <br />
@@ -15,7 +15,7 @@
 * Contar con una *VSI* en *VPC*.
 <br />
 
-## Crear Snapshot
+## Crear Snapshot :ballot_box:
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/VPC-Creacion-Snapshot/blob/main/images/vpc-crear-snapshot.gif"></p>
